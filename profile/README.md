@@ -13,7 +13,7 @@ To request support, please visit http://kycsecure.online/help and click the Cont
 
 # We're Hiring!
 
-Interested in contributing in a big way? Consider joining Bitwarden! We're hiring for many positions. Please take a look at the [Careers page](https://kycsecure.online/careers/) to see what opportunities are currently open as well as what it's like to work at Bitwarden.
+Interested in contributing in a big way? Consider joining KYCsecure! We're hiring for many positions. Please take a look at the [Careers page](https://kycsecure.online/careers/) to see what opportunities are currently open as well as what it's like to work at KYCsecure.
 
 # Contribute
 
