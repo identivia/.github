@@ -9,14 +9,14 @@
 <ul>
     <li>Review code + release info/feature development
     <li>Propose PRs
-    <li>Fork KYCsecure
+    <li>Fork Identivia
 </ul>
 
 To request support, please visit http://identivia.com/help and click the Contact support button on the right-hand side.
 
 # We're Hiring!
 
-Interested in contributing in a big way? Consider joining KYCsecure! We're hiring for many positions. Please take a look at the [Careers page](https://identivia.com/careers/) to see what opportunities are currently open as well as what it's like to work at KYCsecure.
+Interested in contributing in a big way? Consider joining Identivia! We're hiring for many positions. Please take a look at the [Careers page](https://identivia.com/careers/) to see what opportunities are currently open as well as what it's like to work at KYCsecure.
 
 # Contribute
 
